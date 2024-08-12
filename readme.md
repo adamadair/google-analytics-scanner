@@ -1,4 +1,4 @@
-S# Google Analytics Scanner
+# Google Analytics Scanner
 
 I wrote this program to check a URL for Google Analytics tracking code. It uses the `requests` library to fetch the HTML content of the URL and then searches for the Google Analytics tracking code in the HTML source.
 
